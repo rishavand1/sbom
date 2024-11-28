@@ -1,0 +1,203 @@
+{
+    "third_party_components": [
+      {
+        "name": "Ambarella Middleware",
+        "version": "2.5.4",
+        "last_update_date": "2021/11/19",
+        "source_url": "",
+        "license": "proprietary",
+        "cve_patches": ""
+      },
+      {
+        "name": "Atmel SAMD20 code",
+        "version": "3.22.0.7",
+        "last_update_date": "unknown",
+        "source_url": "atmel",
+        "license": "Modified Apache V1.1",
+        "cve_patches": ""
+      },
+      {
+        "name": "Genetec",
+        "version": "Various",
+        "last_update_date": "2023/8/7",
+        "source_url": "",
+        "license": "Source Code License Agreement",
+        "cve_patches": ""
+      },
+      {
+        "name": "Globalize",
+        "version": "unknown but < 1.1.2",
+        "last_update_date": "2013/11/08",
+        "source_url": "http://github.com/jquery/globalize",
+        "license": "MIT or GPLv2",
+        "cve_patches": ""
+      },
+      {
+        "name": "JavaScript Cookie",
+        "version": "2.2.1",
+        "last_update_date": "2019/09/27",
+        "source_url": "https://github.com/js-cookie/js-cookie",
+        "license": "MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "NTCIP SNMP MIBS",
+        "version": "1.08",
+        "last_update_date": "2021/06/02",
+        "source_url": "https://www.ntcip.org/how-to-get-mibs/",
+        "license": "custom",
+        "cve_patches": ""
+      },
+      {
+        "name": "Raphaël JavaScript Vector Library",
+        "version": "2.1.0",
+        "last_update_date": "2017/02/16",
+        "source_url": "http://raphaeljs.com",
+        "license": "MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "Signal Handler",
+        "version": "unknown",
+        "last_update_date": "2019/06/26",
+        "source_url": "Adapted from https://developers.redhat.com/blog/2015/08/19/launching-helper-process-under-memory-and-latency-constraints-pthread_create-and-vfork/",
+        "license": "MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "Singleton.h, NullType.h, SafeFormat.h, TypeManip.h",
+        "version": "unknown",
+        "last_update_date": "2019/09/12",
+        "source_url": "",
+        "license": "Modified MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "avrlib",
+        "version": "20061029",
+        "last_update_date": "2012/03/02",
+        "source_url": "http://www.procyonengineering.com/embedded/avr/avrlib/",
+        "license": "GPL",
+        "cve_patches": ""
+      },
+      {
+        "name": "i18next",
+        "version": "23.7.6",
+        "last_update_date": "2023/12/4",
+        "source_url": "https://www.npmjs.com/package/i18next",
+        "license": "MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "jQuery UI",
+        "version": "1.12.1",
+        "last_update_date": "2019/11/04",
+        "source_url": "http://jqueryui.com",
+        "license": "MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "oasis",
+        "version": "Various",
+        "last_update_date": "2022/11/9",
+        "source_url": "http://docs.oasis-open.org",
+        "license": "As-is",
+        "cve_patches": ""
+      },
+      {
+        "name": "onvif",
+        "version": "22.06",
+        "last_update_date": "2022/11/9",
+        "source_url": "https://github.com/onvif/specs/archive/refs/tags/22.06.zip",
+        "license": "ONVIF & Apache 2.0",
+        "cve_patches": ""
+      },
+      {
+        "name": "utf8-cpp Cookie",
+        "version": "unknown",
+        "last_update_date": "2019/06/26",
+        "source_url": "http://utfcpp.sourceforge.net/",
+        "license": "Modified MIT",
+        "cve_patches": ""
+      },
+      {
+        "name": "uuid",
+        "version": "unknown",
+        "last_update_date": "2021/09/03",
+        "source_url": "https://github.com/certik/uuid",
+        "license": "BSD 3 clause",
+        "cve_patches": ""
+      },
+      {
+        "name": "w3",
+        "version": "Various",
+        "last_update_date": "2022/11/9",
+        "source_url": "http://www.w3.org",
+        "license": "As-is",
+        "cve_patches": ""
+      }
+    ],
+    "internal_tool_components": [
+      {
+        "name": "LeakTracer",
+        "version": "unknown",
+        "last_update_date": "2012/01/05",
+        "source_url": "http://www.andreasen.org/LeakTracer/",
+        "license": "public domain",
+        "cve_patches": ""
+      },
+      {
+        "name": "codeCoverage.cmake",
+        "version": "2019-12-04",
+        "last_update_date": "2020/03/03",
+        "source_url": "https://github.com/bilke/cmake-modules",
+        "license": "BSD 3-clause",
+        "cve_patches": ""
+      },
+      {
+        "name": "pipework",
+        "version": "unknown",
+        "last_update_date": "2020/06/02",
+        "source_url": "unknown",
+        "license": "Apache V2.0",
+        "cve_patches": ""
+      },
+      {
+        "name": "pjsip",
+        "version": "unknown",
+        "last_update_date": "2020/05/04",
+        "source_url": "http://www.teluu.com/",
+        "license": "GPLv2",
+        "cve_patches": ""
+      },
+      {
+        "name": "table_parser.py",
+        "version": "05.03.2014",
+        "last_update_date": "2020/03/17",
+        "source_url": "https://github.com/schmijos/html-table-parser-python3",
+        "license": "AGPLv3",
+        "cve_patches": ""
+      }
+    ],
+    "custom_licenses": [
+      {
+        "name": "Singleton.h, NullType.h, SafeFormat.h, TypeManip.h",
+        "copyright": "Copyright (c) 2001 by Andrei Alexandrescu",
+        "description": "This code accompanies the book: Alexandrescu, Andrei. 'Modern C++ Design: Generic Programming and Design Patterns Applied'. Copyright (c) 2001. Addison-Wesley.",
+        "permission": "Permission to use, copy, modify, distribute and sell this software for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.",
+        "warranty": "The author or Addison-Wesley Longman make no representations about the suitability of this software for any purpose. It is provided 'as is' without express or implied warranty."
+      },
+      {
+        "name": "utf8-cpp Cookie",
+        "permission": "Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the software and accompanying documentation covered by this license (the 'Software') to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works of the Software, and to permit third-parties to whom the Software is furnished to do so, all subject to the following:",
+        "disclaimer": "THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY."
+      },
+      {
+        "name": "NTCIP SNMP MIBS",
+        "description": "All intellectual property rights, including, but not limited to, the rights of reproduction in whole or in part in any form, translation into other languages and display are reserved by the copyright owners under the laws of the United States of America, the Universal Copyright Convention, the Berne Convention, and the International and Pan American Copyright Conventions.",
+        "permissions": "To the extent and in the limited event these materials are distributed by AASHTO/ITE/NEMA in the form of a Management Information Base ('MIB'), AASHTO/ITE/NEMA extends the following permissions.",
+        "disclaimer": "These materials are delivered 'AS IS' without any warranties as to their use or performance."
+      }
+    ]
+  }
+  
